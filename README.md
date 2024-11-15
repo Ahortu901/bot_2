@@ -14,8 +14,6 @@ Transaction Costs: Models realistic transaction costs while making trades.
 Gym Environment: Custom trading environment built with OpenAI Gym for RL integration.
 
 ## Instructions to use the requirements.txt:
- 1. Create a new file named requirements.txt in your project directory.
- 2. Copy the above list and paste it into the requirements.txt file.
- 3. Install the dependencies by running the following command:
+ 1. Install the dependencies by running the following command:
 ```bash
 pip install -r requirements.txt
